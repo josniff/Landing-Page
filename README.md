@@ -1,0 +1,1 @@
+This is my introduction to the Landing Page project for the flexbox section of the Odin Project.  I will be building a web page from scratch, using a provided design from Odin.  I've learned flexbox basics, and both showcased and honed my knowledge through the several css flexbox exercises.  I expect this project to be tough, but I will make it through!
